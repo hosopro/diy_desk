@@ -1,20 +1,12 @@
-# 机設計図
+# 机の設計図
+テレワーク用に作成した机の設計図です。  
+無料CADソフトJW-CADで作成されています。  
 
-テレワーク用に作成した机の設計図です。
-
-無料CADソフトJW-CADで作成されています。
-
-幅1200
-
-奥行き600
-
-高さ700
+幅1200  
+奥行き600  
+高さ700  
 
 
-ブログに作成時の顛末が書かれています。
-
+## ブログ
 [https://hosopro.blogspot.com/2020/10/diy-telework-desk-1.html](https://hosopro.blogspot.com/2020/10/diy-telework-desk-1.html)
-
-
-[ほそぼそプログラミング日記](https://hosopro.blogspot.com/)
 
